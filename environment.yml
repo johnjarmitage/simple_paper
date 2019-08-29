@@ -1,0 +1,9 @@
+name: simple_paper
+channels:
+  - conda-forge
+dependencies:
+  - jupyter
+  - jupyterlab
+  - scipy
+  - matplotlib
+  - voila
